@@ -1,3 +1,5 @@
+![shinxg's github stats](https://github-readme-stats.vercel.app/api?username=shinxg&count_private=true)
+
 ### Hi there 👋
 
 <!--
